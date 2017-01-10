@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Imperial-Metric\Imperial-Metric\bin\Debug\Imperial-Metric.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Imperial-Metric\Imperial-Metric\bin\Debug\Imperial-Metric.exe
+c:\users\user\documents\visual studio 2015\Projects\Imperial-Metric\Imperial-Metric\bin\Debug\Imperial-Metric.pdb
+c:\users\user\documents\visual studio 2015\Projects\Imperial-Metric\Imperial-Metric\obj\Debug\Imperial-Metric.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Imperial-Metric\Imperial-Metric\obj\Debug\Imperial-Metric.exe
+c:\users\user\documents\visual studio 2015\Projects\Imperial-Metric\Imperial-Metric\obj\Debug\Imperial-Metric.pdb
